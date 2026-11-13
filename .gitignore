@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!terraform.tfvars.example
